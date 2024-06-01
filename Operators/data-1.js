@@ -7,6 +7,8 @@ let e=true;    // true 1
 let f=false;   // false 0
 let g;
 
+// concatenation +
+
 console.log(a+b);  // 70.5
 console.log(a+c);  // 1040
 console.log(a+d);  // 10Rahul
