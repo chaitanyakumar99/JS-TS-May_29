@@ -3,9 +3,13 @@
 
 // strict Equality operator === :- verify data type and content
 
+
+
 let a = 10;
 let b = '10';
 let c = 20
+
+//---------------------Equality operator examples---------------------
 
 console.log(a == b); //true
 console.log(a == c); //false
