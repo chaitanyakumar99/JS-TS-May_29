@@ -3,6 +3,10 @@
 
 let  num=199
 
+// if the condition is true if-block will be excuted 
+
+//  if the condition is false else-block will be excuted 
+
 if(num %2===0){
 console.log("Even Number");
 }

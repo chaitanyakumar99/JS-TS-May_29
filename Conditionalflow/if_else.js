@@ -4,7 +4,7 @@ let ename="Rahul"
 
 // if the condition is false 0 :- if the condition is false else-block will be excuted 
 
-
+ // if the sta
 
 if(1){
  console.log("GM");
