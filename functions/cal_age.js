@@ -1,6 +1,6 @@
 function cal_age(year){
 console.log("Good Morning");
-return 2024-year
+return 2024-year   // current year - year
 }
 
 //age1
