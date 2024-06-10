@@ -999,13 +999,6 @@ let users=[{"uid":1,"name":"Ettore","email":"egoadsby0@webnode.com","gender":"Ma
     {"uid":999,"name":"Rochelle","email":"rmanonrq@google.fr","gender":"Female"}]
     
     
-    // let i=0;
-    // while(i<=users.length-1){
-    //     if(users[i].gender !=="Female"){
-    //         console.log("User Name: ", users[i].name)
-    //     }
-    //     i++
-    // }
 
 
 let i=0;
