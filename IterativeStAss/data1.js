@@ -1016,10 +1016,11 @@ let users=[{"uid":1,"name":"Ettore","email":"egoadsby0@webnode.com","gender":"Ma
     var fCount=0
 
     for(user of users){
-        
+        //male
         if(user.gender =="Male"){
             mCount++
         }
+        //female
         else{
             fCount++
         }
