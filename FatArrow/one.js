@@ -5,7 +5,7 @@
 // }
 // add()
 
-//fatarrow function 
+//fat arrow function 
 
 let add=()=>{
 console.log("Addition");
