@@ -1012,5 +1012,7 @@ let displayData=()=>{
         }
     }
 
+
     document.getElementsByTagName('tbody')[0].innerHTML=rows
+    
 }
