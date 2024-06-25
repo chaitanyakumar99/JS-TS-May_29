@@ -6,3 +6,4 @@ for(price of prices){
     new_prices.push(price+1)
 }
 console.log(prices);
+console.log(new_prices);
