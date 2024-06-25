@@ -1,6 +1,6 @@
 class Test {
-    constructor(){
-        console.log("Constructor method - Text Class");
+    constructor(a,b,c){
+        console.log(a,b,c);
     } // special method
     getDetails(){
       console.log("GetDetails method");
@@ -8,4 +8,4 @@ class Test {
 }
 
 new Test(10,20,30) //how to initilize object values?
-new Test()
+new Test(1,2,3)
