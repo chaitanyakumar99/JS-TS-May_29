@@ -12,3 +12,10 @@ a1.deposit_Amount(50)
 
 console.log(a1);
 
+
+let a2=new Account();
+    a2.deposit_Amount(20000)
+    a2.deposit_Amount(600)
+
+
+console.log(a2);
