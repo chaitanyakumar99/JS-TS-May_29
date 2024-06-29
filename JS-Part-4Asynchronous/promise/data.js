@@ -34,5 +34,3 @@ createEmployee({id:103,name:"Priyanka",sal:65000})
 .catch((err)=>{
     console.log(err)
 })
-
-
