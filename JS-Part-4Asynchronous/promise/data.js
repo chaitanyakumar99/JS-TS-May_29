@@ -23,7 +23,7 @@ let displayData=()=>{
                        </tr>`
         }
         document.getElementById('abc').innerHTML=rows
-    },2000)
+    },3000)
 }
 
 createEmployee({id:103,name:"Priyanka",sal:65000})
