@@ -12,4 +12,4 @@ console.log(emp.id);
 
 //how to read object properties like a variable? object dest
 
-// console.log(id)
+console.log(id)    //we can access object name and property
