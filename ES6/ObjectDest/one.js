@@ -9,3 +9,7 @@ let emp={
 //how to read object proerties
 
 console.log(emp.id);
+
+//how to read object properties like a variable? object dest
+
+// console.log(id)
